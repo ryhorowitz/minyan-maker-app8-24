@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "expo": "~51.0.25",
+    "expo-dev-client": "~4.0.21",
+    "expo-location": "~17.0.1",
+    "expo-router": "~3.5.21",
     "expo-status-bar": "~1.12.1",
+    "expo-updates": "~0.25.22",
     "react": "18.2.0",
     "react-native": "0.74.5",
-    "expo-location": "~17.0.1",
-    "expo-dev-client": "~4.0.21",
-    "expo-updates": "~0.25.22"
+    "react-native-cookie": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
