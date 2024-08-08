@@ -1,4 +1,4 @@
-import { entry } from 'expo-router';
+import 'expo-router/entry';
 
 import { useState, useEffect } from 'react';
 import { View, ActivityIndicator } from 'react-native';
